@@ -1,5 +1,7 @@
 ## 20 Days of Python – Course Map
 
+![20 Days of Python](assets/c__Users_ASUS_AppData_Roaming_Cursor_User_workspaceStorage_20b2341d28651c211712017bbfb4ade3_images_ChatGPT_Image_Feb_13__2026__07_27_04_PM-7aa1cd1d-67d2-44e4-b6d1-6fc6888a3bcf.png)
+
 This repo is a 20‑day Python roadmap. Each day has one or more example scripts,
 kept very small so you can read and run them quickly.
 
