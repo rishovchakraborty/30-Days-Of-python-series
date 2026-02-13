@@ -24,34 +24,22 @@ Below is a short guide you can share on LinkedIn or anywhere else.
 - **Day 1 – Printing & Comments**
   - Folder: [`Day 1`](Day%201/)
   - What you’ll practice: `print()`, basic output, escape characters, single‑line and multi‑line comments.
-  - Files:
-    - `Day 1/01_comments.py`
-    - `Day 1/02_print.py`
+
 
 - **Day 2 – Variables & Data Types**
   - Folder: [`Day 2`](Day%202/)
   - What you’ll practice: variables, naming, `input()`, type casting, `int`, `float`, `str`, `bool` and basic containers.
-  - Files:
-    - `Day 2/01_variables_builtin_functions.py`
-    - `Day 2/02_decleration_of_variables.py`
-    - `Day 2/03_datatypes_casting.py`
+
 
 - **Day 3 – Operators**
   - Folder: [`Day 3`](Day%203/)
   - What you’ll practice: arithmetic, assignment operators, comparison, logical operators.
-  - Files:
-    - `Day 3/01_assignment_operators.py`
-    - `Day 3/02_arithmatic_operators.py`
-    - `Day 3/03_comparison_operator.py`
-    - `Day 3/04_logical_operators.py`
+
 
 - **Day 4 – Strings & Numbers**
   - Folder: [`Day 4`](Day%204/)
   - What you’ll practice: string basics, common string methods and slicing, plus a first look at numbers and booleans.
-  - Files:
-    - `Day 4/01_string.py`
-    - `Day 4/02_numbers.py`
-    - `Day 4/03_boolean.py`
+
 
 - **Day 5 – Lists**
   - Folder: [`Day 5`](Day%205/)
